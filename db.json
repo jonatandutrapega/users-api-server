@@ -251,33 +251,5 @@
         "timestamp": "2023-08-13T11:50:08.100Z",
         "resource": "Leticia Ward",
         "task_description": "Concluding the call"
-    },
-    {
-        "case_id": "Case_7",
-        "activity": "Receive Call",
-        "timestamp": "2023-10-23T17:30:40.890Z",
-        "resource": "Leticia Rolfson",
-        "task_description": "Answering incoming call"
-    },
-    {
-        "case_id": "Case_7",
-        "activity": "Update Customer Profile",
-        "timestamp": "2023-10-23T17:39:40.890Z",
-        "resource": "Christy Cormier",
-        "task_description": "Updating the customer profile"
-    },
-    {
-        "case_id": "Case_7",
-        "activity": "Schedule Follow-up",
-        "timestamp": "2023-10-23T18:13:40.890Z",
-        "resource": "Michelle Balistreri Jr.",
-        "task_description": "Scheduling a follow-up call"
-    },
-    {
-        "case_id": "Case_7",
-        "activity": "Close Call",
-        "timestamp": "2023-10-23T18:48:40.890Z",
-        "resource": "Geneva Waelchi II",
-        "task_description": "Concluding the call"
     }
 ]}
